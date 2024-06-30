@@ -2,6 +2,7 @@
 
 Welcome to the Alien Survival Guide project! This project was developed for the SandCodes Hackathon.
 
+[Download Alien Survival Guide](https://drive.google.com/file/d/1pKvtfm8Qw-4bnBSPnJJOt2KHMKOxuV5L/view?usp=sharing)
 ## Table of Contents
 
 - [Project Description](#project-description)
